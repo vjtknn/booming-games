@@ -12,7 +12,7 @@ Recrutation task for booming games
 *    [RabbitMQ](https://www.rabbitmq.com/download.html) is installed and running 
 
 ### Files
-* chat.rb - aplication written in Ruby language that allows you to send and recive messages using RabbitMQ server and AMQP internet protocol. Firstly aplication ask user for their users name and then is ready to serve as terminal chat aplication.
+* chat.rb - aplication written in Ruby language. Allows you to send and recive messages using RabbitMQ server and AMQP internet protocol. Firstly aplication ask user for their users name and then is ready to serve as terminal chat aplication.
 
 ### Usage
 #### To run:
@@ -29,7 +29,7 @@ Recrutation task for booming games
 *    [RabbitMQ](https://www.rabbitmq.com/download.html) is installed and running
 
 ### Files
-* elixir_chat.ex -  aplication written in Elixir language that allows you to send and recive messages using RabbitMQ server and AMQP internet protocol. Firstly aplication ask user for their users name and then is ready to serve as terminal chat aplication.
+* elixir_chat.ex -  aplication written in Elixir language. Allows you to send and recive messages using RabbitMQ server and AMQP internet protocol. Firstly aplication ask user for their users name and then is ready to serve as terminal chat aplication.
 
 
 ### Usage
