@@ -31,9 +31,9 @@ class Chat
   def listen_for_messages
     queue = @channel.queue("Hello")
     queue.bind(@exchange).subscribe do |delivery_info, metadata, payload|
-    #data = JSON.parse(payload)
-    #display_message(data['user'], data['message'])
-    puts "#{payload}"  
+    data = JSON.parse(payload)
+    display_message(data['user'], data['message'])
+  
 #Part that after uncommenting allows to chat beetwen two 
 #chat.rb apps (send and recive messages)
     #user = data.match(" ").pre_match

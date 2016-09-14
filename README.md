@@ -53,4 +53,4 @@ Recrutation task for booming games
 #### To quit the app
 * press <kbd>ctrl</kbd>+<kbd>C</kbd> twice in your terminal window
 or
-* press <kbd>ctrl</kbd>+<kbd>C</kbd> and after that <kbd>a</kbd>
+* press <kbd>ctrl</kbd>+<kbd>C</kbd> and after that <kbd>a</kbd> 
