@@ -26,7 +26,7 @@ Recrutation task for booming games
 ### Elixir Solution
 
 #### Requirements
-*    [RabbitMQ](https://www.rabbitmq.com/download.html) is installed and running on localhost on standard port (5672)
+*    [RabbitMQ](https://www.rabbitmq.com/download.html) is installed and running
 
 ### Files
 * elixir_chat.ex -  aplication written in Elixir language that allows you to send and recive messages using RabbitMQ server and AMQP internet protocol. Firstly aplication ask user for their users name and then is ready to serve as terminal chat aplication.
